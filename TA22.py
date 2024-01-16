@@ -137,7 +137,7 @@ elif f == 5:
 elif f == 6:
     fastSort(n)
 
-
+input('Нажмите Enter для выхода\n')
 #
 #
 #
